@@ -1,0 +1,22 @@
+{
+  "name": "shmoulevsky/locator",
+  "description": "Define geo position by ip",
+  "authors": [
+    {
+      "name": "Eugeny Shmoulevskiy",
+      "email": "shmoulevskye@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "require-dev": {
+
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Esh\\Locator\\": "src/"
+    }
+  }
+}
